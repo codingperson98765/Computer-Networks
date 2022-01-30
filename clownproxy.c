@@ -1,5 +1,5 @@
 //Author: Ahmedh Shamsudeen UCID 30121541
-//Based of tutorial code written by William Black
+
 
 
 #include <sys/socket.h>
